@@ -39,6 +39,3 @@ Este sistema es un agente inteligente basado en modelos de lenguaje (LLM) diseñ
 
 Facilitar la creación de materiales académicos estructurados para docentes y estudiantes, asegurando calidad pedagógica, accesibilidad y automatización en la generación de contenido educativo.
 
-#Configuración
-
-Ejecutar ai_agent_v3.ipynb
